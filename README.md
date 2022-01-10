@@ -1,7 +1,7 @@
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/Soumick_Dey"> Soumick
 <br>
 <p align="center">
-   <a href="https://github.com/SoumickDeyArgha/USERGE-X"><img src="https://c.tenor.com/1qJyoANtsc8AAAAd/yae-miko-yae-genshin-impact.gif" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/SoumickDeyArgha/USERGE-X"><img src="https://staticg.sportskeeda.com/editor/2022/01/764c3-16413796613621-1920.jpg" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
