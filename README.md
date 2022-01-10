@@ -1,7 +1,7 @@
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/Soumick_Dey"> Soumick
 <br>
 <p align="center">
-   <a href="https://github.com/code-rgb/USERGE-X"><img src="https://i.imgur.com/53mdl2v.png" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/SoumickDeyArgha/USERGE-X"><img src="https://t.me/c/1189481605/1357" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
