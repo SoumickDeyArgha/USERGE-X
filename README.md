@@ -169,3 +169,8 @@ async def test_filter(message: Message):
 * [Uniborg](https://github.com/SpEcHiDe/UniBorg)
 ### Copyright & License 
 [**GNU General Public License v3.0**](https://github.com/code-rgb/USERGE-X/blob/alpha/LICENSE)
+
+   
+   with Deta
+   
+   [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/SoumickDeyArgha/USERGE-X)
